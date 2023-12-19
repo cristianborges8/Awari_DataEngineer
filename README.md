@@ -1,8 +1,6 @@
 # Awari_DataEngineer
 
 ## Tarefa: Python Basics
-Esta é a tarefa proposta para a 4ª aula do curso de Engenharia de Dados da Awari. Siga as instruções para desenvolvê-la e entregá-la.
-
 ## O que fazer?
 As atividades propostas são apenas exercícios “de brinquedo” para reforçar conhecimentos básicos em Python:
 
