@@ -17,7 +17,6 @@ df['Avg'] = df['Avg'].round(2)
 top_10_usuarios = df.head(10)
 print(top_10_usuarios)
 
-
 # Mostrar primeiros 100 usuários por nome decrescente.
 df_sorted = df.sort_values(by='Artist', ascending=False)
 primeiros_100_usuarios = df_sorted.head(100)
